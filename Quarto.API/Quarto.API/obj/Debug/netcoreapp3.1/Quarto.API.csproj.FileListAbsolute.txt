@@ -1,0 +1,10 @@
+D:\Projects\quarto-api\Quarto.API\Quarto.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\quarto-api\Quarto.API\Quarto.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\quarto-api\Quarto.API\Quarto.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\quarto-api\Quarto.API\Quarto.API\bin\Debug\netcoreapp3.1\Quarto.API.exe
+D:\Projects\quarto-api\Quarto.API\Quarto.API\obj\Debug\netcoreapp3.1\Quarto.API.csprojAssemblyReference.cache
+D:\Projects\quarto-api\Quarto.API\Quarto.API\obj\Debug\netcoreapp3.1\Quarto.API.AssemblyInfoInputs.cache
+D:\Projects\quarto-api\Quarto.API\Quarto.API\obj\Debug\netcoreapp3.1\Quarto.API.AssemblyInfo.cs
+D:\Projects\quarto-api\Quarto.API\Quarto.API\obj\Debug\netcoreapp3.1\Quarto.API.RazorTargetAssemblyInfo.cache
+D:\Projects\quarto-api\Quarto.API\Quarto.API\obj\Debug\netcoreapp3.1\staticwebassets\Quarto.API.StaticWebAssets.Manifest.cache
+D:\Projects\quarto-api\Quarto.API\Quarto.API\obj\Debug\netcoreapp3.1\staticwebassets\Quarto.API.StaticWebAssets.xml

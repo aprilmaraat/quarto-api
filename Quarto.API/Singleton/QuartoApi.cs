@@ -1,7 +1,7 @@
 ﻿using System;
 using Quarto.Common.Package;
 
-namespace Quarto.API.Singleton
+namespace Quarto.Api.Singleton
 {
     public class QuartoApi : IAppCache
     {

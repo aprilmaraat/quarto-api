@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Quarto.API": {
+    "Quarto.Api": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
